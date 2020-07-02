@@ -13,6 +13,7 @@ Content under construction: the set of values is not accepted and not convenient
 ### 1. We value common success on the same level with personal.
 
 * We are open to colleagues and sharing personal and team experience. 
+* We share common culture, best practices and their understanding within each team.
 
 #### Practices & rituals: 
 {{< glossary title="Communities" >}}
@@ -25,7 +26,23 @@ source of organizational and professional help and
 almost the only way to keep a connection between colleagues with similar competences.
 It is highly welcomed when people invest their resources in community development.
 {{< /glossary >}}
-{{< alert color="warning" title="Antipattern" >}}Overfulfill your own tasks while your colleague can not finish in time and you were able to help.{{< /alert >}}
+
+{{< glossary title="Retrospective" source="https://www.scrumguides.org/scrum-guide.html#events-retro" >}}
+The Retro is the event giving an opportunity for the team to inspect itself and create a plan for improvements to be enacted next time.
+{{< /glossary >}}
+
+{{< glossary title="Innersource" >}}
+[Being innersource-ready](https://adeo.github.io/innersource) means that you are ready to collaborate with other developers, including developers in your team.
+{{< /glossary >}}
+
+{{< glossary title="Contribution conventions" source="https://adeo.github.io/innersource" >}}
+The project uses a consistent convention to handle contributions from it’s own team but also for external teams, I.E: pull requests, code-review and branch permissions
+{{< /glossary >}}
+
+{{< alert color="warning" title="Antipatterns" >}}
+1. Overfulfill your own tasks while your colleague can not finish in time and you were able to help.
+2. One team member thinks you should format code with tabs and another insists on spaces during the code review.
+{{< /alert >}}
 
 ---
 
@@ -60,6 +77,8 @@ Also contains activities should be done in the future to prevent the repeat of t
 * We prepare for meetings before the meeting. 
 * Each invitation to the meeting should have agenda.
 * Meetings are not the only way to make a decision.
+* We listen to each other and give everyone an opportunity to express and explain their point of view.
+* We don't impose our opinion in any way, but do our best to explain it and convince others.
 * We may work remotely and have flexible working hours. 
 
 #### Practices & rituals: 
@@ -85,8 +104,15 @@ Special event for planning of the work to be performed. This plan is created by 
 {{< glossary title="Retrospective" source="https://www.scrumguides.org/scrum-guide.html#events-retro" >}}
 The Retro is the event giving an opportunity for the team to inspect itself and create a plan for improvements to be enacted next time.
 {{< /glossary >}}
+{{< glossary title="Facilitation" source="https://www.scrum.org/resources/blog/scrum-master-master-art-facilitation" >}}
+Facilitation is a technique to manage a group conversation in such a way that everyone stays on the topic and is involved in a meaningful way.
+{{< /glossary >}}
 
-{{< alert color="warning" title="Antipattern" >}}1 hour meeting with 30 participants without agenda and written conclusions.{{< /alert >}}
+{{< alert color="warning" title="Antipatterns" >}}
+1. 1 hour meeting with 30 participants without agenda and written conclusions.
+2. Talking over each other.
+3. "I'm more experienced that you, so do as I said".
+{{< /alert >}}
 
 ---
 
@@ -94,6 +120,7 @@ The Retro is the event giving an opportunity for the team to inspect itself and 
 
 * We prefer non-violent communication.
 * We discuss facts, not emotions or personality.
+* We are open to new ideas and support pluralism of opinion.
 
 #### Practices & rituals: 
 
@@ -106,7 +133,13 @@ Short cycles and feedback loops – an ideal picture.
 The sooner you get the feedback, the faster you can fix the problem.
 {{< /glossary >}}
 
-{{< alert color="warning" title="Antipattern" >}}Your code is a shitty piece of spaghetti.{{< /alert >}}
+
+{{< alert color="warning" title="Antipatterns" >}}
+1. Your code is a shitty piece of spaghetti.
+2. This service worked fine all these years. Don't bother improving it.
+3. Throwing out an idea without explaining or discussing why it isn't feasible.
+4. Making fun of someone with ridiculous opinion on something.
+{{< /alert >}}
 
 ---
 

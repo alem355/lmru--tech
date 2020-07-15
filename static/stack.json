@@ -179,14 +179,14 @@
       "Area": "QA",
       "Cases": "Performance",
       "Research": "",
-      "Trial": "<code class='tool'>Yandex.Tank</code>","<code class='tool'>HP Performance centre</code>",
+      "Trial": "<code class='tool'>Yandex.Tank</code> <code class='tool'>HP Performance centre</code>",
       "Best choice": "<code class='lang'>Scala</code> <code class='tool'>Gatling</code> <code class='tool'>Lighthouse</code>",
       "Hold": "<code class='tool'>Artillery</code> <code class='tool'>Jmeter</code>"
     },
     {
       "Area": "QA",
       "Cases": "Infrastructure & Documentation",
-      "Research": "<code class='tool'>Moon</code>",
+      "Research": "",
       "Trial": "",
       "Best choice": "<code class='tool'>Moon</code> <code class='platform'>TestRail</code> <code class='tool'>Browserstack</code> <code class='platform'>Umbrella</code>",
       "Hold": "<code class='platform'>Selenium Grid</code> <code class='tool'>Confluence</code>"
@@ -364,7 +364,7 @@
       "Cases": "CDN",
       "Research": "",
       "Trial": "",
-      "Best choice": "<code class='platform'>Ngnix</code>",
+      "Best choice": "<code class='platform'>Ngenix</code>",
       "Hold": "<code class='platform'>Cloudinary</code>"
     },
     {
